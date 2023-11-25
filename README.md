@@ -1,4 +1,3 @@
-# verhotyrov
 <html lang="ru">
     <head>
 <meta charset="utf-8">
@@ -9,11 +8,11 @@
     <p id="para1">Сайт лучий</p> 
       <p id="para2">Автор</p> 
       <p id="para3">Степан</p> 
-    <p>мне 14</p>
-<h1>снимаю тик ток</h1>
-
-<h2>люблю фотошоп</h2>
-<h3>играю в майн</h3>
+    <p>ага</p>
+<h1>тик ток</h1>
+<button class="glow-on-hover" type="button">НАВЕДИТЕ НА МЕНЯ, ЗАТЕМ НАЖМИТЕ НА МЕНЯ!</button>
+<h2>треш</h2>
+<h3>трэш</h3>
 
 <h4>19:30</h4>
 <h5>maincraft</h5>
@@ -56,7 +55,7 @@
       <p data-type="warning">Предупреждающий текст</p> 
       <p data-type="error">Текст ошибки</p> 
 <img align="right" src="2.jpg" weight=400 height=400>
-<a href="about.html">туц</a>
+<a href="about.html">мо компа</a>
 <A HREF=INDEX2.HTML target="_top"><img src="2.jpg"></A>
 <img src="tt.png" >
 
@@ -64,7 +63,7 @@
 
 <table width="100%" height="100%" valign="top">
 <tr height="10%" bgcolor="silver">
-<td colspan="3"><h3>акула</h3></td>
+<td colspan="3"><h3>это просто</h3></td>
 </tr>
 <tr height="80%">
 <td width="15%" bgcolor="#FFD700"><h2>ту ту ту ту ту ту</h2></td>
