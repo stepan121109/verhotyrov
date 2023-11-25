@@ -80,19 +80,5 @@
     <a href="Anime_Pastel_Dream_palm_trees_on_skellig_3.jpg" >открыть картинку</a> - Anime_Pastel_Dream_palm_trees_on_skellig_3.jpg
  <a href="https://stablediffusionweb.com/#ai-image-generator">BVGRIUV</a>
   <a href="image.png" >открыть картинку</a> - image.png
-
-h1{
-font-family: verdana, arial, sans-serif;
-font-style:normal;
-}
-h2{
-font-family: verdana, arial, sans-serif;
-font-style:italic ;
-}
-h3{
-font-family: verdana, arial, sans-serif;
-font-style:oblique;
-}
-  
 </body>
 </html>
